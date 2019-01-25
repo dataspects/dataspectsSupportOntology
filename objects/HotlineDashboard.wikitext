@@ -1,10 +1,7 @@
-== TroubleshootingSteps by ClientSymptom/ErrorCode ==
-
-{{#ask:[[HelpsSolving::+]]
-  |mainlabel=TroubleshootingStep
-  |?HelpsSolving
-  |?Assumes
-  |format=table
+{{#ask:
+ [[Category:Entity]]OR[[CanCauseProblem::+]][[Category:Entity]]
+ |format=ultree
+ |parent=CanCauseProblem
 }}
 
 [[Category:HapaProblemTroubleshootingFAQOntology]]
