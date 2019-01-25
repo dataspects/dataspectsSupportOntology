@@ -1,7 +1,0 @@
-{{Problem
-|HasEntityTitle=Dancer does not reach low level in proper time
-|CanTrigger=5437:7
-}}
-== Steps to reproduce/Solution ==
-#Check speed of blister line and HAPA machine
-#Customer bypassed two of their rollers for the foil
