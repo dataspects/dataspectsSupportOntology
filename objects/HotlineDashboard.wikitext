@@ -4,3 +4,4 @@
   |?CanTrigger=CanTrigger ErrorCode
   |format=table
 }}
+[[Category:HapaProblemTroubleshootingFAQOntology]]
