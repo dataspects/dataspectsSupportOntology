@@ -2,6 +2,7 @@
  [[Category:Entity]]OR[[CanCauseProblem::+]][[Category:Entity]]
  |format=ultree
  |?HasSolution
+ |?MentionsErrorCode
  |parent=CanCauseProblem
 }}
 
