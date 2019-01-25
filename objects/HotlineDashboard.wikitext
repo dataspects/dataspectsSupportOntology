@@ -1,7 +1,17 @@
-== Problems by ErrorCodes ==
+== ErrorCodes by Problems ==
+
 {{#ask:[[CanTrigger::+]]
   |mainlabel=Problem
   |?CanTrigger=CanTrigger ErrorCode
   |format=table
 }}
+
+== Problems by Troubleshhoting ==
+
+{{#ask:[[Solves::+]]
+  |mainlabel=Troubleshooting
+  |?Solves=Solves Problem
+  |format=table
+}}
+
 [[Category:HapaProblemTroubleshootingFAQOntology]]
