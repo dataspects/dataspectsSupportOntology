@@ -1,16 +1,9 @@
-== ErrorCodes by Problems ==
+== TroubleshootingSteps by ClientSymptom/ErrorCode ==
 
-{{#ask:[[CanTrigger::+]]
-  |mainlabel=Problem
-  |?CanTrigger=CanTrigger ErrorCode
-  |format=table
-}}
-
-== Problems by Troubleshhoting ==
-
-{{#ask:[[Solves::+]]
-  |mainlabel=Troubleshooting
-  |?Solves=Solves Problem
+{{#ask:[[HelpsSolving::+]]
+  |mainlabel=TroubleshootingStep
+  |?HelpsSolving
+  |?Assumes
   |format=table
 }}
 
