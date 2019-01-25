@@ -1,0 +1,7 @@
+{{{info|add title=New FAQ|edit title=Edit FAQ|page name=C<unique number;random;10>}}}
+
+{{FormHeader|FAQ}}
+{{StandardFormSections}}
+{{FormFooter}}
+
+<noinclude>[[Category:HapaProblemTroubleshootingFAQOntology]]</noinclude>
