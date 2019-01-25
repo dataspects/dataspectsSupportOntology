@@ -1,4 +1,0 @@
-{{EntityType
-  |HasKeyword=
-}}
-[[Category:HapaProblemTroubleshootingFAQOntology]]
