@@ -1,4 +1,4 @@
 {{Problem
-|HasEntityTitle=UV dryer overheating
-|CanTrigger=1234:01
+  |HasEntityTitle=Print cylinder blocked?
+  |CanCauseProblem=Problem123
 }}
