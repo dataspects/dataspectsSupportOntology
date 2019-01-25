@@ -1,0 +1,4 @@
+{{Problem
+|HasEntityTitle=MyProblem
+|CanTrigger=1234
+}}
