@@ -1,6 +1,9 @@
 {{{info|add title=New FAQ|edit title=Edit FAQ|page name=C<unique number;random;10>}}}
 
-{{FormHeader|FAQ}}
+{{FormHeader|FAQ}}|-
+  !RefersTo
+  |{{{field|RefersTo|input type=text}}}
+|-
 {{StandardFormSections}}
 {{FormFooter}}
 
