@@ -1,0 +1,5 @@
+{{Problem
+  |HasEntityTitle=Is the shaft bent?
+  |CanCauseProblem=Problem001
+  |HasSolution=Change the shaft
+}}
