@@ -1,4 +1,4 @@
 {{Troubleshooting
-|HasEntityTitle=
+|HasEntityTitle=Dancer sensor is not working
 |Solves=Problem01
 }}
