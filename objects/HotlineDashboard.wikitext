@@ -1,6 +1,7 @@
 {{#ask:
  [[Category:Entity]]OR[[CanCauseProblem::+]][[Category:Entity]]
  |format=ultree
+ |?HasSolution
  |parent=CanCauseProblem
 }}
 
