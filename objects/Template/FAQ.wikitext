@@ -1,7 +1,0 @@
-<includeonly>{{METADATA|Keywords={{{HasKeyword|}}}|HasEntityTitle={{{HasEntityTitle}}}|HasEntityBlurb={{{HasEntityBlurb|}}}|HasEntityType=FAQ}}
-{{Annotation
-  |AnnotationPredicate=RefersTo
-  |AnnotationObjects={{{RefersTo|}}}
-}}
-</includeonly>
-<noinclude>[[Category:HapaProblemTroubleshootingFAQOntology]]</noinclude>
