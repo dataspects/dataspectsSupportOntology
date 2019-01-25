@@ -1,0 +1,5 @@
+{{Problem
+  |HasEntityTitle=Contact pressure too high?
+  |CanCauseProblem=Problem001
+  |HasSolution=Lower the contact pressure
+}}
