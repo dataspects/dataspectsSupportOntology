@@ -1,1 +1,6 @@
 == Problems by ErrorCodes ==
+{{#ask:[[CanTrigger::+]]
+  |mainlabel=Problem
+  |?CanTrigger=CanTrigger ErrorCode
+  |format=table
+}}
