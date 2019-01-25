@@ -1,7 +1,7 @@
 <includeonly>{{METADATA|Keywords={{{HasKeyword|}}}|HasEntityTitle={{{HasEntityTitle}}}|HasEntityBlurb={{{HasEntityBlurb|}}}|HasEntityType=Problem}}
 {{Annotation
-  |AnnotationPredicate=CanTrigger
-  |AnnotationObjects={{{CanTrigger|}}}
+  |AnnotationPredicate=HasSolution
+  |AnnotationObjects={{{HasSolution|}}}
 }}
 </includeonly>
 <noinclude>[[Category:HapaProblemTroubleshootingFAQOntology]]</noinclude>
