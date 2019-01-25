@@ -2,8 +2,11 @@
 
 {{FormHeader|Problem}}
 |-
-  !CanTrigger
-  |{{{field|CanTrigger|input type=text}}}
+  !MentionsErrorCode
+  |{{{field|MentionsErrorCode|input type=text}}}
+|-
+  !CanCauseProblem
+  |{{{field|CanCauseProblem|input type=tokens}}}
 |-
 {{StandardFormSections}}
 {{FormFooter}}
