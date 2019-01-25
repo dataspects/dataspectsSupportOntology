@@ -1,4 +1,4 @@
 {{PropertyPage
-|PropertyType=Page
+|PropertyType=Text
 }}
 [[Category:HapaProblemTroubleshootingFAQOntology]]
