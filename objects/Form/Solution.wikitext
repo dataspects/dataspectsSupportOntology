@@ -1,0 +1,7 @@
+{{{info|add title=New Solution|edit title=Edit Solution|page name=C<unique number;random;10>}}}
+
+{{FormHeader|Solution}}
+{{StandardFormSections}}
+{{FormFooter}}
+
+<noinclude>[[Category:HapaProblemTroubleshootingFAQOntology]]</noinclude>

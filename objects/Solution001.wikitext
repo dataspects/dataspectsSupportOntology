@@ -1,0 +1,3 @@
+{{Solution
+  |HasEntityTitle=Lower the contact pressure
+}}

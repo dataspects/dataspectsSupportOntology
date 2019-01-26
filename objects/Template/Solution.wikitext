@@ -1,0 +1,3 @@
+<includeonly>{{METADATA|Keywords={{{HasKeyword|}}}|HasEntityTitle={{{HasEntityTitle}}}|HasEntityBlurb={{{HasEntityBlurb|}}}|HasEntityType=Solution}}
+</includeonly>
+<noinclude>[[Category:HapaProblemTroubleshootingFAQOntology]]</noinclude>

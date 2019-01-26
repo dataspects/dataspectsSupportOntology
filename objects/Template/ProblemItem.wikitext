@@ -1,0 +1,10 @@
+|-
+|[[{{{1}}}]]
+{{#arraymap:{{{4}}}|,|@@@0@@@|<span style="background-color:beige;border:1px solid gray;">EC '''@@@0@@@'''</span>| {{!}} }}
+|{{#if:{{{2}}}|
+{{#arraymap:{{{2}}}|,|@@@0@@@|
+* <span style="background-color:pink;">[[@@@0@@@]]</span>|\n}}}}
+{{#if:{{{3}}}|
+{{#arraymap:{{{3}}}|,|@@@1@@@|
+* <span style="background-color:lightgreen;">[[@@@1@@@]]</span>|\n}}}}
+|-

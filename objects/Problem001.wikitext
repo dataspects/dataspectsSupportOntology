@@ -1,4 +1,11 @@
 {{Problem
   |HasEntityTitle=Print cylinder blocked?
-  |CanCauseProblem=Problem123
+}}
+{{Annotation
+  |AnnotationPredicate=CanBeCausedByProblem
+  |AnnotationObjects=Problem002
+}}
+{{Annotation
+  |AnnotationPredicate=CanBeCausedByProblem
+  |AnnotationObjects=Problem003
 }}

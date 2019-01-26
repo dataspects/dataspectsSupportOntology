@@ -1,9 +1,14 @@
+{|class=wikitable width=100%
+!width=50%|Problem
+!Causes & Solutions
 {{#ask:
- [[Category:Entity]]OR[[CanCauseProblem::+]][[Category:Entity]]
- |format=ultree
+ [[HasEntityType::Problem]]OR[[CanBeCausedByProblem::+]]
+ |?CanBeCausedByProblem
  |?HasSolution
  |?MentionsErrorCode
- |parent=CanCauseProblem
+ |format=template
+ |template=ProblemItem
+ |link=none
 }}
-
+|}
 [[Category:HapaProblemTroubleshootingFAQOntology]]

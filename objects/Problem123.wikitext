@@ -1,4 +1,7 @@
 {{Problem
   |HasEntityTitle=Zero position print cylinder
-  |MentionsErrorCode=1234:01
+}}
+{{Annotation
+  |AnnotationPredicate=MentionsErrorCode
+  |AnnotationObjects=3422:99
 }}
