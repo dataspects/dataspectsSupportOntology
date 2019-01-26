@@ -1,4 +1,13 @@
-{|class=wikitable width=100%
+# The '''main use case''' is that the support agent, in the SearchContext "Support", '''searches for {{my|<search_string>}} including error codes and/or symptoms''' reported by a customer.
+# If the support engine sets the SearchContext to "Support", the following match profiles will be boosted:
+#* Boost 10: {{code|HasEntityType::Problem AND ({{mlb|mTBC}} OR MentionsErrorCode::*{{my|<search_string>}}*)}}
+#* Boost 5: {{code|HasEntityType::Solution AND {{mlb|mTBC}}}}
+#* Boost 0: {{mlb|mTBC}}
+#: ({{mlb|mTBC}} = {{code|HasEntityTitle::*{{my|<search_string>}}*}} OR {{code|HasEntityBlurb::*{{my|<search_string>}}*}} OR {{code|HasEntityContent::*{{my|<search_string>}}*}})
+# For results of {{code|HasEntityType::Problem}} either solutions or caused problems are displayed.
+# For results of {{code|HasEntityType::Solution}} corresponding problems are displayed.
+
+{| class="wikitable" width="100%"
 !width=50%|Problem
 !Causes & Solutions
 {{#ask:
