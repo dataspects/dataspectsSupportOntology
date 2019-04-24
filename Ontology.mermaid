@@ -1,5 +1,8 @@
 graph LR
-subgraph HapaWiki
-  TroubleshootingStep -->|HelpsSolving| Problem
+subgraph MediaWiki
+  Problem
+  Solution
+  Problem -->|HasSolution|Solution
+  Problem -->|CanBeCausedBy|Problem
 end
-  Problem -->|CanTrigger| ErrorCode
+  Problem -->|MentionsErrorCode|ErrorCode
