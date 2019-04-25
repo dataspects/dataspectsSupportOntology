@@ -1,4 +1,4 @@
 {{EntityType
   |HasKeyword=
 }}
-[[Category:HapaProblemTroubleshootingFAQOntology]]
+[[Category:dataspectsSupportOntology]]

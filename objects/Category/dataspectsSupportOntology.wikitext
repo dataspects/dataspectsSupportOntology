@@ -1,4 +1,2 @@
-{{PropertyPage
-|SMWHasType=Page
-}}
+[[Subcategory of::Category:Ontology]]
 [[Category:dataspectsSupportOntology]]

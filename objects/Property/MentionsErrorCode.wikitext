@@ -1,4 +1,4 @@
 {{PropertyPage
 |SMWHasType=Text
 }}
-[[Category:HapaProblemTroubleshootingFAQOntology]]
+[[Category:dataspectsSupportOntology]]

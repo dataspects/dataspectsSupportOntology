@@ -1,7 +1,3 @@
 {{Problem
   |HasEntityTitle=Is the shaft bent?
 }}
-{{Annotation
-  |AnnotationPredicate=HasSolution
-  |AnnotationObjects=Solution002
-}}

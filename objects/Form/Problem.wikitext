@@ -1,7 +1,23 @@
 {{{info|add title=New Problem|edit title=Edit Problem|page name=C<unique number;random;10>}}}
 
+{|class=wikitable width=100%
+!width=33%|Has solutions
+!width=33%|Can be caused by problems
+!Is hinted by error codes
+|-
+|{{{for template|SolutionForProblem|multiple}}}
+* Solution: {{{field|HasSolution|input type=dropdown|values from category=Solution|mapping property=HasEntityTitle}}}
+* Suggested by: {{{field|SuggestedBy|input type=dropdown|values from namespace=User}}}
+{{{end template}}}
+|{{{for template|ProblemCausingProblem|multiple}}}
+{{{field|CanBeCausedByProblem|input type=dropdown|values from category=Problem}}}
+{{{end template}}}
+|{{{for template|ErrorCodes|multiple}}}
+{{{end template}}}
+|}
+
 {{FormHeader|Problem}}
 {{StandardFormSections}}
 {{FormFooter}}
 
-<noinclude>[[Category:HapaProblemTroubleshootingFAQOntology]]</noinclude>
+<noinclude>[[Category:dataspectsSupportOntology]]</noinclude>

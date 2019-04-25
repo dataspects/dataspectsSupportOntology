@@ -4,4 +4,4 @@
 {{StandardFormSections}}
 {{FormFooter}}
 
-<noinclude>[[Category:HapaProblemTroubleshootingFAQOntology]]</noinclude>
+<noinclude>[[Category:dataspectsSupportOntology]]</noinclude>

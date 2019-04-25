@@ -8,8 +8,8 @@
 # For results of {{code|HasEntityType::Solution}} corresponding problems are displayed.
 
 {| class="wikitable" width="100%"
-!width=50%|Problem
-!Causes & Solutions
+!width=50%|Problems ({{#formlink:form=Problem|link text=Add new problem|link type=link}})
+!Causes & Solutions ({{#formlink:form=Solution|link text=Add new solution|link type=link}})
 {{#ask:
  [[HasEntityType::Problem]]OR[[CanBeCausedByProblem::+]]
  |?CanBeCausedByProblem
@@ -20,4 +20,4 @@
  |link=none
 }}
 |}
-[[Category:HapaProblemTroubleshootingFAQOntology]]
+[[Category:dataspectsSupportOntology]]

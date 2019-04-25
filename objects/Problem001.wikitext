@@ -1,11 +1,3 @@
 {{Problem
   |HasEntityTitle=Print cylinder blocked?
 }}
-{{Annotation
-  |AnnotationPredicate=CanBeCausedByProblem
-  |AnnotationObjects=Problem002
-}}
-{{Annotation
-  |AnnotationPredicate=CanBeCausedByProblem
-  |AnnotationObjects=Problem003
-}}

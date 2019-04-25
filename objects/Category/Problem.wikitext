@@ -1,4 +1,1 @@
-{{PropertyPage
-|SMWHasType=Page
-}}
 [[Category:dataspectsSupportOntology]]

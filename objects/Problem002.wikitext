@@ -1,11 +1,3 @@
 {{Problem
   |HasEntityTitle=Contact pressure too high?
 }}
-{{Annotation
-  |AnnotationPredicate=HasSolution
-  |AnnotationObjects=Solution001
-}}
-{{Annotation
-  |AnnotationPredicate=HasSolution
-  |AnnotationObjects=Solution003
-}}
