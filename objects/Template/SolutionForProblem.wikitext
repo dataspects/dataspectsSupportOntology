@@ -1,5 +1,4 @@
 {{#subobject:
 |HasSolution={{{HasSolution}}}
-|SuggestedBy={{{SuggestedBy}}}
-}}
-<noinclude>[[Category:dataspectsSupportOntology]]</noinclude>
+|SuggestedBy={{#if:{{{SuggestedBy|}}}|User:{{{SuggestedBy}}}|}}
+}}<noinclude>[[Category:dataspectsSupportOntology]]</noinclude>

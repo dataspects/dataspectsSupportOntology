@@ -1,0 +1,1 @@
+* has <span style="background-color:lightgreen;">[[{{{1}}}]]</span> {{#if:{{{2|}}}| <sup>suggested by [[{{{2}}}]]</sup>|}}<noinclude>[[Category:dataspectsSupportOntology]]</noinclude>

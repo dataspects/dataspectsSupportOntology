@@ -1,3 +1,10 @@
+{{SolutionForProblem
+|HasSolution=Solution003
+|SuggestedBy=Admin
+}}
+{{ProblemCausingProblem
+|CanBeCausedByProblem=Problem123
+}}
 {{Problem
-  |HasEntityTitle=Contact pressure too high?
+|HasEntityTitle=Contact pressure too high?
 }}

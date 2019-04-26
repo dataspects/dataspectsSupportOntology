@@ -1,10 +1,20 @@
 |-
 |[[{{{1}}}]]
-{{#arraymap:{{{4}}}|,|@@@0@@@|<span style="background-color:beige;border:1px solid gray;">EC '''@@@0@@@'''</span>| {{!}} }}
-|{{#if:{{{2}}}|
-{{#arraymap:{{{2}}}|,|@@@0@@@|
-* <span style="background-color:pink;">[[@@@0@@@]]</span>|\n}}}}
-{{#if:{{{3}}}|
-{{#arraymap:{{{3}}}|,|@@@1@@@|
-* <span style="background-color:lightgreen;">[[@@@1@@@]]</span>|\n}}}}
-|-
+|
+{{#ask:[[-Has subobject::{{{1}}}]][[HasSolution::+]]
+|mainlabel=-
+|?HasSolution
+|?SuggestedBy
+|format=template
+|template=SolutionForProblemItem
+|link=none
+}}
+{{#ask:[[-Has subobject::{{{1}}}]][[CanBeCausedByProblem::+]]
+|mainlabel=-
+|?CanBeCausedByProblem
+|?SuggestedBy
+|format=template
+|template=ProblemCausingProblemItem
+|link=none
+}}
+|-<noinclude>[[Category:dataspectsSupportOntology]]</noinclude>

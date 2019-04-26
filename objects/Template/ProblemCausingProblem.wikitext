@@ -1,1 +1,4 @@
-<noinclude>[[Category:dataspectsSupportOntology]]</noinclude>
+{{#subobject:
+|CanBeCausedByProblem={{{CanBeCausedByProblem}}}
+|SuggestedBy={{#if:{{{SuggestedBy|}}}|User:{{{SuggestedBy}}}|}}
+}}<noinclude>[[Category:dataspectsSupportOntology]]</noinclude>

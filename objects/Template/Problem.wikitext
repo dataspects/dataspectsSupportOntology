@@ -3,7 +3,17 @@
 |mainlabel=-
 |?HasSolution
 |?SuggestedBy
-|format=table
+|format=template
+|template=SolutionForProblemItem
+|link=none
+}}
+{{#ask:[[-Has subobject::{{FULLPAGENAME}}]][[CanBeCausedByProblem::+]]
+|mainlabel=-
+|?CanBeCausedByProblem
+|?SuggestedBy
+|format=template
+|template=ProblemCausingProblemItem
+|link=none
 }}
 [[Category:Problem]]
 </includeonly>
