@@ -1,4 +1,11 @@
 <includeonly>{{METADATA|Keywords={{{HasKeyword|}}}|HasEntityTitle={{{HasEntityTitle}}}|HasEntityBlurb={{{HasEntityBlurb|}}}|HasEntityType=Problem}}
+* {{#ask:[[-Has subobject::{{FULLPAGENAME}}]][[HintedByErrorCode::+]]
+|mainlabel=-
+|?HintedByErrorCode
+|format=template
+|template=HintingErrorCodeForProblemItem
+|link=none
+}}
 {{#ask:[[-Has subobject::{{FULLPAGENAME}}]][[HasSolution::+]]
 |mainlabel=-
 |?HasSolution

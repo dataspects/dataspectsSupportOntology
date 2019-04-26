@@ -5,6 +5,9 @@
 {{ProblemCausingProblem
 |CanBeCausedByProblem=Problem123
 }}
+{{ErrorCodeHintingProblem
+|HintedByErrorCode=5530
+}}
 {{Problem
 |HasEntityTitle=Contact pressure too high?
 }}

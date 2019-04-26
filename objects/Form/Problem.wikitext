@@ -12,7 +12,8 @@
 |{{{for template|ProblemCausingProblem|multiple}}}
 {{{field|CanBeCausedByProblem|input type=dropdown|values from category=Problem}}}
 {{{end template}}}
-|{{{for template|ErrorCodes|multiple}}}
+|{{{for template|ErrorCodeHintingProblem|multiple}}}
+{{{field|HintedByErrorCode|input type=text}}}
 {{{end template}}}
 |}
 

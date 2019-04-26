@@ -1,5 +1,12 @@
 |-
 |[[{{{1}}}]]
+{{#ask:[[-Has subobject::{{{1}}}]][[HintedByErrorCode::+]]
+|mainlabel=-
+|?HintedByErrorCode
+|format=template
+|template=HintingErrorCodeForProblemItem
+|link=none
+}}
 |
 {{#ask:[[-Has subobject::{{{1}}}]][[HasSolution::+]]
 |mainlabel=-
