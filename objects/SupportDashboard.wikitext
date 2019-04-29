@@ -1,4 +1,6 @@
+<includeonly>=== [[SupportDashboard]] ===</includeonly>
 {{#formlink:form=Problem|link text=Add new problem|link type=link}} | {{#formlink:form=Solution|link text=Add new solution|link type=link}}
+; Problems
 {| class="wikitable" width="100%"
 {{#ask:
  [[HasEntityType::Problem]]
@@ -7,4 +9,12 @@
  |link=none
 }}
 |}
-<noinclude>[[Category:dataspectsSupportOntology]]</noinclude>
+; Solutions
+{| class="wikitable" width="100%"
+{{#ask:
+ [[HasEntityType::Solution]]
+ |format=template
+ |template=SolutionItem
+ |link=none
+}}
+|}<noinclude>[[Category:dataspectsSupportOntology]][[Category:Dashboard]]</noinclude>
